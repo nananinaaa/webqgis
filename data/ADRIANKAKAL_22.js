@@ -1,0 +1,1 @@
+var json_ADRIANKAKAL_22 = {"type":"FeatureCollection","name":"ADRIANKAKAL_22","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
